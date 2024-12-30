@@ -1,0 +1,3662 @@
+[
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Creatinine",
+    "score": 0.999812901
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "alpha-D-Glucose",
+    "score": 0.999812067
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "D-Glucose",
+    "score": 0.99920696
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Hypoxanthine",
+    "score": 0.998913646
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Homocysteine",
+    "score": 0.998332918
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Adenine",
+    "score": 0.995940924
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Chloroform",
+    "score": 0.995053113
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-Alanine",
+    "score": 0.99205035
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Hexadecanedioic acid",
+    "score": 0.990593731
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Dopamine",
+    "score": 0.990233779
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Substance P",
+    "score": 0.989911377
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Mannitol",
+    "score": 0.98707515
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-Arginine",
+    "score": 0.986636341
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-Proline",
+    "score": 0.985472858
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Choline",
+    "score": 0.985013783
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Glycine",
+    "score": 0.984132051
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Citric acid",
+    "score": 0.983377457
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "24-Hydroxycholesterol",
+    "score": 0.982393742
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Citrulline",
+    "score": 0.981110215
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Creatine",
+    "score": 0.981088519
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Spermidine",
+    "score": 0.980494857
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-Cysteine",
+    "score": 0.975260913
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Cytidine",
+    "score": 0.974233687
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Putrescine",
+    "score": 0.974184036
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-Glutamine",
+    "score": 0.97372061
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Adenosine",
+    "score": 0.972276151
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-Leucine",
+    "score": 0.971799374
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-Tyrosine",
+    "score": 0.971373558
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-Lactic acid",
+    "score": 0.971358776
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-Serine",
+    "score": 0.970061421
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-Tryptophan",
+    "score": 0.969862342
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-Phenylalanine",
+    "score": 0.966451108
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Calcium",
+    "score": 0.963655114
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-Glutamic acid",
+    "score": 0.962309718
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Pyruvic acid",
+    "score": 0.960964262
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Lidocaine",
+    "score": 0.95977962
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-Asparagine",
+    "score": 0.958390951
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "27-Hydroxycholesterol",
+    "score": 0.95641613
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-Valine",
+    "score": 0.950737059
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Guanine",
+    "score": 0.949511766
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-Histidine",
+    "score": 0.948859215
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "beta-Alanine",
+    "score": 0.948333919
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Malic acid",
+    "score": 0.948016226
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Dehydroepiandrosterone sulfate",
+    "score": 0.947471857
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Fumaric acid",
+    "score": 0.94682008
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(O-22:2(13Z,16Z)/20:2(11Z,14Z))",
+    "score": 0.944726348
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Zinc",
+    "score": 0.942197204
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "myo-Inositol",
+    "score": 0.938778579
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Betaine",
+    "score": 0.938332677
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "gamma-Aminobutyric acid",
+    "score": 0.933982849
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-Aspartic acid",
+    "score": 0.931063354
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-Threonine",
+    "score": 0.930896401
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-Lysine",
+    "score": 0.929896235
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Magnesium",
+    "score": 0.923029661
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Quinic acid",
+    "score": 0.919697702
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Ornithine",
+    "score": 0.919357359
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "3-Hydroxybutyric acid",
+    "score": 0.912853122
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "2-Hydroxybutyric acid",
+    "score": 0.902059853
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "1-Methylhistamine",
+    "score": 0.899672329
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "D-Ribose 5-phosphate",
+    "score": 0.899348557
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Sorbitol",
+    "score": 0.898725271
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Succinic acid",
+    "score": 0.892992973
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Adenosine monophosphate",
+    "score": 0.892781198
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Fe2+",
+    "score": 0.887094319
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Isocitric acid",
+    "score": 0.881726086
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-Isoleucine",
+    "score": 0.86287272
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Neopterin",
+    "score": 0.859942257
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Sarcosine",
+    "score": 0.857551992
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Oxidized glutathione",
+    "score": 0.856624186
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-Arabitol",
+    "score": 0.855143487
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-Cystine",
+    "score": 0.832377911
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Glycerol 3-phosphate",
+    "score": 0.828455627
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "4-Hydroxyproline",
+    "score": 0.82445097
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "1-Methylhistidine",
+    "score": 0.815405488
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Glucose 6-phosphate",
+    "score": 0.802049935
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "3,4-Dihydroxybenzeneacetic acid",
+    "score": 0.798854947
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Tungsten",
+    "score": 0.795433342
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Galactitol",
+    "score": 0.795300424
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Copper",
+    "score": 0.787406743
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Methylmalonic acid",
+    "score": 0.778319001
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Glycylproline",
+    "score": 0.77317822
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "cis-Aconitic acid",
+    "score": 0.769652128
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Fructose 6-phosphate",
+    "score": 0.754049301
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "1,5-Anhydrosorbitol",
+    "score": 0.74924469
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "3-Methylhistidine",
+    "score": 0.746759474
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "8-Hydroxyguanosine",
+    "score": 0.746265769
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "S-Adenosylhomocysteine",
+    "score": 0.745159268
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "D-Sedoheptulose 7-phosphate",
+    "score": 0.738852203
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "D-Glutamic acid",
+    "score": 0.736883938
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Carnosine",
+    "score": 0.733563602
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "2-Hexenal",
+    "score": 0.723513067
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Pentosidine",
+    "score": 0.717318237
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(18:2(9Z,12Z)/18:1(11Z))",
+    "score": 0.71679616
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Phosphoenolpyruvic acid",
+    "score": 0.710456192
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "4-Hydroxynonenal",
+    "score": 0.709114432
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-Cystathionine",
+    "score": 0.704032898
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Folic acid",
+    "score": 0.69154191
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Glucose 1-phosphate",
+    "score": 0.683445036
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Uridine 5'-monophosphate",
+    "score": 0.673761785
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Cadmium",
+    "score": 0.656259298
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Ribitol",
+    "score": 0.642833591
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Manganese",
+    "score": 0.641432881
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Prolylhydroxyproline",
+    "score": 0.638631225
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Cytidine monophosphate",
+    "score": 0.635389328
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Dynorphin A",
+    "score": 0.625402629
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(14:0/P-18:1(11Z))",
+    "score": 0.613775492
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "D-Ribulose 5-phosphate",
+    "score": 0.611984372
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(20:4(8Z,11Z,14Z,17Z)/14:0)",
+    "score": 0.600309908
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "gamma-Glutamylglutamic acid",
+    "score": 0.595447183
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "5-(2-Hydroxyethyl)-4-methylthiazole",
+    "score": 0.595091879
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(20:3(5Z,8Z,11Z)/18:0)",
+    "score": 0.589742661
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "1-Methyladenosine",
+    "score": 0.567891657
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "3-Phosphoglyceric acid",
+    "score": 0.565873384
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "2-Methyldecane",
+    "score": 0.536489666
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Phosphorylcholine",
+    "score": 0.535926163
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "8-Hydroxyguanine",
+    "score": 0.527920842
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "epsilon-(gamma-Glutamyl)lysine",
+    "score": 0.527523756
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Dihydroxyacetone phosphate",
+    "score": 0.525913477
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "1-Isopropyl-3-methylbenzene",
+    "score": 0.493655443
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Molybdenum",
+    "score": 0.491601259
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Barium",
+    "score": 0.478999674
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(18:3(9Z,12Z,15Z)/P-18:1(9Z))",
+    "score": 0.471578747
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Aluminum",
+    "score": 0.454428375
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Vanadium",
+    "score": 0.431563914
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Pyrroline hydroxycarboxylic acid",
+    "score": 0.431167722
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "(R)-3,7-Dimethyl-1,6-octadien-3-ol",
+    "score": 0.428749889
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "5-Hydroxylysine",
+    "score": 0.425434053
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Naphthalene",
+    "score": 0.422441185
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(18:2(9Z,12Z)/22:1(13Z))",
+    "score": 0.418171257
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-Dopa",
+    "score": 0.406883061
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Strontium",
+    "score": 0.40578267
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-alpha-Aminobutyric acid",
+    "score": 0.40555656
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Anserine",
+    "score": 0.388074875
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Dimethyldisulfide",
+    "score": 0.381725192
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "N6-Carbamoyl-L-threonyladenosine",
+    "score": 0.3772946
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Cortisol",
+    "score": 0.361334413
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Lead",
+    "score": 0.356924593
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Lithium",
+    "score": 0.352312624
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Thiamine pyrophosphate",
+    "score": 0.350339532
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Docosapentaenoic acid (22n-3)",
+    "score": 0.333074123
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Mercury",
+    "score": 0.332130939
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Thiamine monophosphate",
+    "score": 0.295888931
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(22:0/P-16:0)",
+    "score": 0.295628726
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(22:4(7Z,10Z,13Z,16Z)/20:0)",
+    "score": 0.286289811
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Nickel",
+    "score": 0.285524696
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Tin",
+    "score": 0.274609238
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Silicon",
+    "score": 0.273466349
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "1-Hydroxy-2-butanone",
+    "score": 0.260814637
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Cyclo(Leu-Phe)",
+    "score": 0.26070717
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Glucaric acid",
+    "score": 0.24965626
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Thallium",
+    "score": 0.244620979
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Cobalt",
+    "score": 0.23954694
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(P-18:1(11Z)/22:2(13Z,16Z))",
+    "score": 0.221248493
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Acetylcholine",
+    "score": 0.213514253
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Benzoic acid",
+    "score": 0.210784271
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Glycerophosphocholine",
+    "score": 0.200269356
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(22:5(7Z,10Z,13Z,16Z,19Z)/P-18:1(9Z))",
+    "score": 0.196379751
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(18:2(9Z,12Z)/P-18:0)",
+    "score": 0.195634663
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(20:3(8Z,11Z,14Z)/18:1(9Z))",
+    "score": 0.192661926
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "3-Hydroxy-4,5-dimethyl-2(5H)-furanone",
+    "score": 0.186518416
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-2,4-diaminobutyric acid",
+    "score": 0.186053306
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Tyrosyl-Glutamine",
+    "score": 0.185045704
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Hexane",
+    "score": 0.183296591
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(P-18:1(9Z)/14:1(9Z))",
+    "score": 0.180454329
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Bismuth",
+    "score": 0.17325221
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(22:5(7Z,10Z,13Z,16Z,19Z)/16:1(9Z))",
+    "score": 0.159324184
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "18-Hydroxycortisol",
+    "score": 0.143336892
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "2-Octenoylcarnitine",
+    "score": 0.131498173
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Monoethylhexyl phthalic acid",
+    "score": 0.129690126
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Valylarginine",
+    "score": 0.129162416
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Deoxycholic acid",
+    "score": 0.123700909
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Alanylproline",
+    "score": 0.121213622
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Beryllium",
+    "score": 0.120187432
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "D-Urobilin",
+    "score": 0.111359939
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Undecane",
+    "score": 0.102958441
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "2-Hydroxy-3-methylbutyric acid",
+    "score": 0.101463132
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Pimelic acid",
+    "score": 0.101064816
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "DL-Dopa",
+    "score": 0.099953718
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(18:1(9Z)/20:3(5Z,8Z,11Z))",
+    "score": 0.096514903
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "3-(Methylthio)propanal",
+    "score": 0.086924262
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Urea",
+    "score": 0.085931212
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Ethylmalonic acid",
+    "score": 0.079379454
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "S-Nitrosoglutathione",
+    "score": 0.076871864
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(20:3(8Z,11Z,14Z)/18:3(9Z,12Z,15Z))",
+    "score": 0.065007791
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Glutamyllysine",
+    "score": 0.063309379
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(18:0/18:0)",
+    "score": 0.063005805
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Pyridoxine 5'-phosphate",
+    "score": 0.059735544
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "4-Ethyl-o-xylene",
+    "score": 0.058515571
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(18:3(6Z,9Z,12Z)/18:3(9Z,12Z,15Z))",
+    "score": 0.056652684
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "beta-Cryptoxanthin",
+    "score": 0.055313259
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(16:1(9Z)/16:0)",
+    "score": 0.05516893
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Pregnenolone",
+    "score": 0.052419722
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(18:4(6Z,9Z,12Z,15Z)/16:0)",
+    "score": 0.046780065
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "N-a-Acetyl-L-arginine",
+    "score": 0.040625624
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(P-18:1(11Z)/22:5(7Z,10Z,13Z,16Z,19Z))",
+    "score": 0.039913945
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "2-Methoxyestradiol",
+    "score": 0.038721755
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "1,11-Undecanedicarboxylic acid",
+    "score": 0.03802925
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(O-18:2(9Z,12Z)/22:0)",
+    "score": 0.034467809
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Palmitic acid",
+    "score": 0.03203987
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Citramalic acid",
+    "score": 0.030011009
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Glycerol",
+    "score": 0.029744154
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(O-18:1(9Z)/20:4(8Z,11Z,14Z,17Z))",
+    "score": 0.028749071
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(18:4(6Z,9Z,12Z,15Z)/18:1(9Z))",
+    "score": 0.027906634
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(20:2(11Z,14Z)/20:0)",
+    "score": 0.027007641
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Rhamnose",
+    "score": 0.021840792
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "N-Acetylthreonine",
+    "score": 0.017637812
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Paracetamol sulfate",
+    "score": 0.017171292
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(18:2(9Z,12Z)/P-18:1(9Z))",
+    "score": 0.017068919
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(14:0/18:3(9Z,12Z,15Z))",
+    "score": 0.016791038
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Angiotensin III",
+    "score": 0.016776331
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Dihydrothymine",
+    "score": 0.016633546
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(P-18:1(9Z)/22:4(7Z,10Z,13Z,16Z))",
+    "score": 0.013369419
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "3beta,7alpha-Dihydroxy-5-cholestenoate",
+    "score": 0.013195083
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(14:0/22:0)",
+    "score": 0.011809787
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Methyl 2-propenyl disulfide",
+    "score": 0.011765645
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Histidylleucine",
+    "score": 0.011611096
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Pentyl acetate",
+    "score": 0.011248495
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "D-Galactose",
+    "score": 0.011096178
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "3-Hydroxytetradecanedioic acid",
+    "score": 0.010704353
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Glycyl-Threonine",
+    "score": 0.010290297
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Agmatine",
+    "score": 0.009118818
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "4-Decenal",
+    "score": 0.008961681
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(18:4(6Z,9Z,12Z,15Z)/18:2(9Z,12Z))",
+    "score": 0.008945451
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(18:4(6Z,9Z,12Z,15Z)/22:1(13Z))",
+    "score": 0.008778565
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "2-Nonanone",
+    "score": 0.007481127
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Isopropyl alcohol",
+    "score": 0.006509171
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "P-Dichlorobenzene",
+    "score": 0.005747891
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Thymol Sulfate",
+    "score": 0.00559006
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Isoleucyl-Isoleucine",
+    "score": 0.005218447
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "2-Tridecanone",
+    "score": 0.004965738
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Maleic acid",
+    "score": 0.004882027
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Histamine",
+    "score": 0.0044413
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "(-)-alpha-Pinene",
+    "score": 0.004406162
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Phenylalanylserine",
+    "score": 0.004244377
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(22:5(7Z,10Z,13Z,16Z,19Z)/20:0)",
+    "score": 0.004117393
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "MG(20:1(11Z)/0:0/0:0)",
+    "score": 0.003885842
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Turanose",
+    "score": 0.003659577
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "1-Methoxy-4-(2-propenyl)benzene",
+    "score": 0.00338595
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(18:3(9Z,12Z,15Z)/20:1(11Z))",
+    "score": 0.002895862
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(22:5(7Z,10Z,13Z,16Z,19Z)/14:0)",
+    "score": 0.002890566
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(22:1(13Z)/14:0)",
+    "score": 0.002819778
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Liothyronine",
+    "score": 0.002801512
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Naringenin",
+    "score": 0.002746005
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "1,3-Diaminopropane",
+    "score": 0.002392191
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(18:2(9Z,12Z)/18:2(9Z,12Z))",
+    "score": 0.002390158
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "5-Androstenediol",
+    "score": 0.002317814
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(18:3(9Z,12Z,15Z)/20:3(5Z,8Z,11Z))",
+    "score": 0.002132916
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Epi-alpha-amyrin",
+    "score": 0.00211333
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Isoleucyl-Glutamate",
+    "score": 0.002003693
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(O-18:1(11Z)/18:2(9Z,12Z))",
+    "score": 0.001937473
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "S-Methyl 3-methylthiobutyrate",
+    "score": 0.001927259
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(16:1(9Z)/22:5(7Z,10Z,13Z,16Z,19Z))",
+    "score": 0.001819872
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "L-Homoserine",
+    "score": 0.001769279
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Pyrrole",
+    "score": 0.001537784
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "Bradykinin",
+    "score": 0.001178592
+  },
+  {
+    "disease": "alzheimer's",
+    "metabolite": "PC(20:2(11Z,14Z)/18:3(6Z,9Z,12Z))",
+    "score": 0.001042899
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Serine",
+    "score": 0.962978065
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Glycine",
+    "score": 0.956601381
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Isobutyric acid",
+    "score": 0.950636685
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Glutamine",
+    "score": 0.942264438
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "D-Aspartic acid",
+    "score": 0.940575778
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "D-Glutamic acid",
+    "score": 0.938206971
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Alanine",
+    "score": 0.935816765
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Tyrosine",
+    "score": 0.934032857
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Hydrocinnamic acid",
+    "score": 0.933707118
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Acetic acid",
+    "score": 0.931818366
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "beta-Alanine",
+    "score": 0.92931062
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Creatine",
+    "score": 0.927607417
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Lysine",
+    "score": 0.922809541
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Threonine",
+    "score": 0.921011329
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Deoxyuridine",
+    "score": 0.918690324
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Citrulline",
+    "score": 0.915540218
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Aspartyl-Leucine",
+    "score": 0.915216088
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Valine",
+    "score": 0.914738238
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Proline",
+    "score": 0.914604008
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Pelargonic acid",
+    "score": 0.914201438
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Propionic acid",
+    "score": 0.914057672
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Aminoadipic acid",
+    "score": 0.911050856
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "2-Methyladipic acid",
+    "score": 0.909459531
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Tryptophan",
+    "score": 0.909038305
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Ethylmethylacetic acid",
+    "score": 0.909028709
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Phenylacetic acid",
+    "score": 0.908620894
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Phenol",
+    "score": 0.907084048
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Isoleucine",
+    "score": 0.90647161
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Isovaleric acid",
+    "score": 0.904172719
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Homoserine",
+    "score": 0.903864086
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Citric acid",
+    "score": 0.902063429
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Asparagine",
+    "score": 0.900959015
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "p-Hydroxyphenylacetic acid",
+    "score": 0.899959862
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Homogentisic acid",
+    "score": 0.898993194
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Guanosine",
+    "score": 0.896904409
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Hypoxanthine",
+    "score": 0.896015882
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Adenine",
+    "score": 0.895088494
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "4-Pyridoxic acid",
+    "score": 0.89395529
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Carnosine",
+    "score": 0.891958296
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "5-Methyl-2-hexanone",
+    "score": 0.891840279
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Deoxycytidine",
+    "score": 0.891743124
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Glutamic acid",
+    "score": 0.891519666
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Methyl propionate",
+    "score": 0.890669465
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Guanidoacetic acid",
+    "score": 0.890106738
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Putrescine",
+    "score": 0.88991034
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Caproic acid",
+    "score": 0.88960892
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Valeric acid",
+    "score": 0.889068425
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "N-gamma-Glutamylglutamine",
+    "score": 0.886833787
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Succinic acid",
+    "score": 0.886398733
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "5beta-Coprostanol",
+    "score": 0.886370718
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Butyric acid",
+    "score": 0.885289073
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "3-Methyladipic acid",
+    "score": 0.885267794
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Cytosine",
+    "score": 0.884202838
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Glyceric acid",
+    "score": 0.883148611
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "2-Hydroxy-3-methylpentanoic acid",
+    "score": 0.882239282
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Leucine",
+    "score": 0.882034659
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "gamma-Glutamylcysteine",
+    "score": 0.879775763
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Phenylacetaldehyde",
+    "score": 0.8790887
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Aspartic acid",
+    "score": 0.876957238
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "3-Hydroxybutyric acid",
+    "score": 0.876639187
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Xanthine",
+    "score": 0.87378937
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Acetoacetic acid",
+    "score": 0.873355031
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Betaine",
+    "score": 0.872470975
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Nicotinic acid",
+    "score": 0.872170866
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "gamma-Aminobutyric acid",
+    "score": 0.868146956
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Methyl acetate",
+    "score": 0.867307067
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Taurine",
+    "score": 0.866728902
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Cyclohexane",
+    "score": 0.864816546
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Kynurenine",
+    "score": 0.862807155
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Sorbitol",
+    "score": 0.8624385
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Ornithine",
+    "score": 0.861866176
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Creatinine",
+    "score": 0.860690594
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "3-Methylindole",
+    "score": 0.860546112
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Methyl (S)-2-Methylbutanoate",
+    "score": 0.857636631
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Lactic acid",
+    "score": 0.855723321
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "p-Cresol",
+    "score": 0.855654836
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Ethyl acetate",
+    "score": 0.855600655
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "1-Butanol",
+    "score": 0.851970255
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Niacinamide",
+    "score": 0.851075172
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Butanone",
+    "score": 0.848593831
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Levoinositol",
+    "score": 0.847647607
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Histidine",
+    "score": 0.847106934
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "2-Aminoisobutyric acid",
+    "score": 0.846826136
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Arginine",
+    "score": 0.846213639
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "DL-Dopa",
+    "score": 0.846055567
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Spermidine",
+    "score": 0.845226049
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Pentadecanoic acid",
+    "score": 0.844799161
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Campesterol",
+    "score": 0.844441652
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Cytidine",
+    "score": 0.843587577
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Dimethylglycine",
+    "score": 0.842135251
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Asparaginylhydroxyproline",
+    "score": 0.841680944
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "2-Oxohexane",
+    "score": 0.841543913
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Methionine",
+    "score": 0.83955133
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "5-Hydroxy-L-tryptophan",
+    "score": 0.838588178
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Propyl alcohol",
+    "score": 0.83781749
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Pantothenic acid",
+    "score": 0.836704373
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "1-Methoxy-4-methylbenzene",
+    "score": 0.835175812
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "alpha-Methylstyrene",
+    "score": 0.834986627
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Cyclohexanone",
+    "score": 0.834905207
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Glycerol",
+    "score": 0.833967745
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Adenosine monophosphate",
+    "score": 0.832391024
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Cadaverine",
+    "score": 0.832374692
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Phenylalanine",
+    "score": 0.829203665
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "2-Methylpropanal",
+    "score": 0.826158762
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Ethanol",
+    "score": 0.825390339
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Symmetric dimethylarginine",
+    "score": 0.824538827
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Trimethylamine N-oxide",
+    "score": 0.824482083
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Pentane",
+    "score": 0.823220015
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Trimethylamine",
+    "score": 0.822698653
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Acetophenone",
+    "score": 0.821354866
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Methyl cyclohexanecarboxylate",
+    "score": 0.821072102
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Adenosine",
+    "score": 0.820416987
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Dimethyl trisulfide",
+    "score": 0.819750845
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Carbon disulfide",
+    "score": 0.818353653
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "N2-gamma-Glutamylglutamine",
+    "score": 0.817670643
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Pyrrole",
+    "score": 0.816392839
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Choline",
+    "score": 0.815849185
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Stearic acid",
+    "score": 0.815276146
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "2,5-Dimethylfuran",
+    "score": 0.814388752
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Dimethylsulfide",
+    "score": 0.814186454
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Kynurenic acid",
+    "score": 0.813066661
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "p-Mentha-1,3,5,8-tetraene",
+    "score": 0.812442541
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "2,3-Pentanedione",
+    "score": 0.811790049
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Urobilinogen",
+    "score": 0.811535597
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "1-Isopropyl-2-methylbenzene",
+    "score": 0.810342431
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Bis(methylthio)methane",
+    "score": 0.80960989
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Urobilin",
+    "score": 0.809189975
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Allantoin",
+    "score": 0.80725801
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Pyridoxine",
+    "score": 0.807095945
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "3-Methylthiophene",
+    "score": 0.806594431
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "2-Piperidinone",
+    "score": 0.805706799
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Xanthosine",
+    "score": 0.803930521
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "2-Nonanone",
+    "score": 0.79927969
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Glutaminylproline",
+    "score": 0.798881114
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Hippuric acid",
+    "score": 0.798246861
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "3,4-Dimethylthiophene",
+    "score": 0.797840953
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "5-Hydroxyindoleacetic acid",
+    "score": 0.79609251
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Caprylic acid",
+    "score": 0.795306921
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Methyl butyrate",
+    "score": 0.792896509
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "p-Cresol sulfate",
+    "score": 0.790199995
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Phenylethylamine",
+    "score": 0.788743138
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "D-Ribose 5-phosphate",
+    "score": 0.788400352
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "D-Xylose",
+    "score": 0.788394511
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "S-Methyl 3-methylthiobutyrate",
+    "score": 0.78799665
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "m-Ethyl_toluene",
+    "score": 0.785863876
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "alpha-Copaene",
+    "score": 0.785006404
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Propyl 2-methylpropanoate",
+    "score": 0.783666253
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Ethylbenzene",
+    "score": 0.781784952
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Uracil",
+    "score": 0.781600416
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "O-Phosphoethanolamine",
+    "score": 0.778017998
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "2-Pentanone",
+    "score": 0.776725769
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Pentyl acetate",
+    "score": 0.774743259
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Nonyl cyclopropane",
+    "score": 0.773918867
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(14:1(9Z)/P-18:1(11Z))",
+    "score": 0.773102283
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "2-Undecanone",
+    "score": 0.772226632
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Tyramine",
+    "score": 0.772174299
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Indole",
+    "score": 0.771669269
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "1-Nitroheptane",
+    "score": 0.771567225
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(18:0/20:3(8Z,11Z,14Z))",
+    "score": 0.771122515
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "2-Decanone",
+    "score": 0.770156503
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Cystathionine",
+    "score": 0.769880414
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Dimethyldisulfide",
+    "score": 0.768602252
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Sucrose",
+    "score": 0.764182031
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Thiocyanate",
+    "score": 0.762182415
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "2-Dodecanone",
+    "score": 0.759605467
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Hexane",
+    "score": 0.758847117
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Ethyl isovalerate",
+    "score": 0.757186413
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Propanal",
+    "score": 0.756587148
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Orotic acid",
+    "score": 0.756284833
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "1-Hexanol",
+    "score": 0.756279826
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "alpha-Cubebene",
+    "score": 0.75449568
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(P-18:0/14:1(9Z))",
+    "score": 0.753025413
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Terpinolene",
+    "score": 0.752368927
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Acetone",
+    "score": 0.751191616
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Methyl 2-propenyl disulfide",
+    "score": 0.751171291
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Taurochenodesoxycholic acid",
+    "score": 0.748386264
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Heptanoic acid",
+    "score": 0.74501425
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Methane",
+    "score": 0.744987011
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Propyl propionate",
+    "score": 0.744651973
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Isopentyl acetate",
+    "score": 0.744426727
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(24:0/18:0)",
+    "score": 0.744386256
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "D-Urobilin",
+    "score": 0.742673457
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(20:5(5Z,8Z,11Z,14Z,17Z)/20:1(11Z))",
+    "score": 0.740819395
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "5-Methylcytidine",
+    "score": 0.739767671
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Ethyl butyrate",
+    "score": 0.739243329
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Methylamine",
+    "score": 0.739146054
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(P-18:1(11Z)/P-16:0)",
+    "score": 0.738309085
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(18:3(6Z,9Z,12Z)/18:0)",
+    "score": 0.736059666
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(20:3(8Z,11Z,14Z)/P-18:0)",
+    "score": 0.73434788
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(20:3(5Z,8Z,11Z)/14:1(9Z))",
+    "score": 0.729945123
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Benzaldehyde",
+    "score": 0.726129472
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Methyl hexanoate",
+    "score": 0.7257635
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Alloisoleucine",
+    "score": 0.725664556
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Glycocholic acid",
+    "score": 0.725203991
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "5-Methyl-2-furancarboxaldehyde",
+    "score": 0.723933339
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "2-Butanol",
+    "score": 0.720784783
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Ethyl propionate",
+    "score": 0.720081866
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Methyl propyl disulfide",
+    "score": 0.719702959
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "2-Pentylfuran",
+    "score": 0.718784869
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "4-Hydroxyproline",
+    "score": 0.715801775
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Acetaldehyde",
+    "score": 0.714404881
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(18:4(6Z,9Z,12Z,15Z)/16:0)",
+    "score": 0.713122249
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "(R)-1-Octen-3-ol",
+    "score": 0.713041604
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "2-Ethyl-5-methylfuran",
+    "score": 0.711796045
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Diacetyl",
+    "score": 0.711126328
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Methanethiol",
+    "score": 0.710395992
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Cyclic AMP",
+    "score": 0.709139466
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Furan",
+    "score": 0.707157254
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Methanol",
+    "score": 0.704949915
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Inosine",
+    "score": 0.704486907
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Normetanephrine",
+    "score": 0.703781962
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Butanal",
+    "score": 0.700263321
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Methyl pentanoate",
+    "score": 0.697520196
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(20:4(5Z,8Z,11Z,14Z)/18:2(9Z,12Z))",
+    "score": 0.695503473
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Bilirubin",
+    "score": 0.694272459
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "2-Heptanone",
+    "score": 0.692421138
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Pentanal",
+    "score": 0.691720247
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "p-Menthan-3-ol",
+    "score": 0.691347539
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "2-Octanone",
+    "score": 0.690041959
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Sulcatone",
+    "score": 0.689653337
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(22:1(13Z)/20:3(8Z,11Z,14Z))",
+    "score": 0.689397633
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Substance P",
+    "score": 0.688280821
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(P-18:1(11Z)/20:3(8Z,11Z,14Z))",
+    "score": 0.68813926
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(P-18:0/22:5(7Z,10Z,13Z,16Z,19Z))",
+    "score": 0.687150002
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(16:1(9Z)/20:0)",
+    "score": 0.684312165
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(22:5(4Z,7Z,10Z,13Z,16Z)/P-18:0)",
+    "score": 0.682802558
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(14:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",
+    "score": 0.682486296
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(18:1(9Z)/14:1(9Z))",
+    "score": 0.677086055
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Isopropyl alcohol",
+    "score": 0.676533759
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(22:1(13Z)/14:1(9Z))",
+    "score": 0.676200032
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Cholic acid",
+    "score": 0.676163137
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(O-20:0/18:3(6Z,9Z,12Z))",
+    "score": 0.672596097
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(P-16:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",
+    "score": 0.671096444
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Taurocholic acid",
+    "score": 0.66932559
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(20:3(5Z,8Z,11Z)/18:0)",
+    "score": 0.666731894
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "alpha-Phellandrene",
+    "score": 0.666408896
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(O-20:0/18:3(9Z,12Z,15Z))",
+    "score": 0.665927231
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(20:4(8Z,11Z,14Z,17Z)/14:0)",
+    "score": 0.66337353
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(18:1(11Z)/20:3(5Z,8Z,11Z))",
+    "score": 0.662648916
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(O-22:2(13Z,16Z)/22:2(13Z,16Z))",
+    "score": 0.662340999
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "xi-2-Ethyl-1-hexanol",
+    "score": 0.661672771
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Nonane",
+    "score": 0.66130501
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Retinyl beta-glucuronide",
+    "score": 0.658559263
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(24:1(15Z)/18:3(6Z,9Z,12Z))",
+    "score": 0.653897107
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(O-18:1(11Z)/18:2(9Z,12Z))",
+    "score": 0.653433919
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "alpha-Carene",
+    "score": 0.652860045
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Benzaldehyde",
+    "score": 0.647142112
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Lutein",
+    "score": 0.646572351
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Glyceraldehyde",
+    "score": 0.645886362
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Hexanal",
+    "score": 0.645527899
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(O-24:0/20:4(8Z,11Z,14Z,17Z))",
+    "score": 0.643696249
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "7a-Hydroxy-cholestene-3-one",
+    "score": 0.63996917
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(P-16:0/22:5(4Z,7Z,10Z,13Z,16Z))",
+    "score": 0.638593912
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Tetradecane",
+    "score": 0.636020303
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/16:0)",
+    "score": 0.63237524
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(22:1(13Z)/18:4(6Z,9Z,12Z,15Z))",
+    "score": 0.631301582
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(18:2(9Z,12Z)/P-18:1(11Z))",
+    "score": 0.626725793
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "2-Methylcitric acid",
+    "score": 0.623481452
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "1-Methylhistamine",
+    "score": 0.620584548
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(18:0/20:3(8Z,11Z,14Z))",
+    "score": 0.619652331
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(20:4(8Z,11Z,14Z,17Z)/P-18:0)",
+    "score": 0.616809011
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Neopterin",
+    "score": 0.616603613
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(18:2(9Z,12Z)/20:4(5Z,8Z,11Z,14Z))",
+    "score": 0.615302205
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(20:0/16:0)",
+    "score": 0.613757074
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Phenylalanylalanine",
+    "score": 0.611588359
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Acetylcarnitine",
+    "score": 0.609897375
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Heme",
+    "score": 0.608905792
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Isovaleraldehyde",
+    "score": 0.608816445
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(P-18:0/16:1(9Z))",
+    "score": 0.607792079
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Phosphoserine",
+    "score": 0.602768362
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(18:1(9Z)/20:2(11Z,14Z))",
+    "score": 0.602742732
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(P-18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",
+    "score": 0.59406358
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Malondialdehyde",
+    "score": 0.593231678
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Inosinic acid",
+    "score": 0.592644155
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(18:3(9Z,12Z,15Z)/18:3(9Z,12Z,15Z))",
+    "score": 0.585416317
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "LysoPA(P-16:0/0:0)",
+    "score": 0.582645953
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Octanoylcarnitine",
+    "score": 0.581126988
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Biotin",
+    "score": 0.579817176
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(16:0/18:3(9Z,12Z,15Z))",
+    "score": 0.577794194
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(P-18:1(9Z)/20:3(5Z,8Z,11Z))",
+    "score": 0.572579384
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(O-18:1(9Z)/18:2(9Z,12Z))",
+    "score": 0.572448134
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Octanal",
+    "score": 0.572180092
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Nonanal",
+    "score": 0.571757138
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(18:0/22:4(7Z,10Z,13Z,16Z))",
+    "score": 0.571546555
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "N-Decane",
+    "score": 0.570797443
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(20:4(5Z,8Z,11Z,14Z)/18:1(11Z))",
+    "score": 0.569117546
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(14:1(9Z)/18:1(11Z))",
+    "score": 0.568783104
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Thiamine",
+    "score": 0.568628252
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Dopamine",
+    "score": 0.565333605
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(14:1(9Z)/20:0)",
+    "score": 0.564518631
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Hexanal",
+    "score": 0.564066827
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "7Z,10Z-Hexadecadienoic acid",
+    "score": 0.560894966
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Isocaproic acid",
+    "score": 0.55035907
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(18:1(11Z)/20:3(8Z,11Z,14Z))",
+    "score": 0.550166547
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(18:3(6Z,9Z,12Z)/20:2(11Z,14Z))",
+    "score": 0.538686156
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Isopropyl alcohol",
+    "score": 0.538110852
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(16:1(9Z)/18:2(9Z,12Z))",
+    "score": 0.538011849
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Androstanediol",
+    "score": 0.537090957
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(P-18:1(9Z)/20:5(5Z,8Z,11Z,14Z,17Z))",
+    "score": 0.533788145
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "6-Keto-prostaglandin F1a",
+    "score": 0.5336532
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(22:2(13Z,16Z)/P-18:1(11Z))",
+    "score": 0.526402354
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/16:0)",
+    "score": 0.526056707
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Heptanal",
+    "score": 0.525435567
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(P-18:1(9Z)/16:0)",
+    "score": 0.525315523
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "6-Keto-prostaglandin F1a",
+    "score": 0.52488935
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(P-18:1(11Z)/14:0)",
+    "score": 0.520404398
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Tetrahydrobiopterin",
+    "score": 0.519752622
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(22:0/16:0)",
+    "score": 0.517998338
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "SM(d18:0/24:1(15Z)(OH))",
+    "score": 0.517838538
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "6-Keto-prostaglandin F1a",
+    "score": 0.514932334
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Hexanoylcarnitine",
+    "score": 0.510854244
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(P-18:1(9Z)/16:1(9Z))",
+    "score": 0.510680199
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Dodecamethylpentasiloxane",
+    "score": 0.507195592
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(18:1(9Z)/18:4(6Z,9Z,12Z,15Z))",
+    "score": 0.504985929
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Nickel",
+    "score": 0.504959702
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Coproporphyrin III",
+    "score": 0.497519225
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Trimethylamine",
+    "score": 0.492541254
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Tetradecanoylcarnitine",
+    "score": 0.492067069
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Dihydrotestosterone",
+    "score": 0.487380058
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "LysoPA(O-18:0/0:0)",
+    "score": 0.481235683
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Pyrimidine, 2,4- bis[(trimethylsilyl)oxy]-",
+    "score": 0.479600012
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(14:0/22:2(13Z,16Z))",
+    "score": 0.479037344
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(18:1(11Z)/22:4(7Z,10Z,13Z,16Z))",
+    "score": 0.478766292
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Cyclohexanone",
+    "score": 0.477817655
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "(R)-Salsolinol",
+    "score": 0.474424243
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Propionylcarnitine",
+    "score": 0.471154392
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "3-Hydroxyisovalerylcarnitine",
+    "score": 0.467943609
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Guanidine",
+    "score": 0.458228409
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "N-Acetylserotonin sulfate",
+    "score": 0.457507908
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "alpha-Copaene",
+    "score": 0.457423806
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Cortisone",
+    "score": 0.457109869
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "27-Hydroxycholesterol",
+    "score": 0.456684083
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Isoleucyl-Valine",
+    "score": 0.455207318
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(18:0/P-18:1(11Z))",
+    "score": 0.454063743
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(20:1(11Z)/20:5(5Z,8Z,11Z,14Z,17Z))",
+    "score": 0.452112287
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "DG(16:0/18:2(9Z,12Z)/0:0)",
+    "score": 0.451380759
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "D-Urobilin",
+    "score": 0.451180756
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Pentosidine",
+    "score": 0.445815086
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(22:1(13Z)/18:2(9Z,12Z))",
+    "score": 0.444647431
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Linoleic acid",
+    "score": 0.443920344
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "11-Dehydrocorticosterone",
+    "score": 0.442606717
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Mannitol",
+    "score": 0.440944761
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Decanal",
+    "score": 0.439838707
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Dodecanoylcarnitine",
+    "score": 0.436249286
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(14:0/22:0)",
+    "score": 0.435925573
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "3, 5-Tetradecadiencarnitine",
+    "score": 0.431255609
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Dimethyl trisulfide",
+    "score": 0.430431366
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Caffeine",
+    "score": 0.430360436
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(18:1(11Z)/24:1(15Z))",
+    "score": 0.429151893
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Pimelylcarnitine",
+    "score": 0.424006999
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(22:0/18:3(6Z,9Z,12Z))",
+    "score": 0.422330618
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Pyridinoline",
+    "score": 0.418285131
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "DG(18:0/22:2(13Z,16Z)/0:0)",
+    "score": 0.417755693
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Nitric oxide",
+    "score": 0.417186469
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Dimethyl trisulfide",
+    "score": 0.415280908
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Sorbitol",
+    "score": 0.414662868
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Sphingosine 1-phosphate",
+    "score": 0.412413746
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "3-Methylthiophene",
+    "score": 0.40365088
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Hydrogen peroxide",
+    "score": 0.402288407
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Tetrahydrodeoxycorticosterone",
+    "score": 0.402087361
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Fe2+",
+    "score": 0.399455935
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "2-Butylfuran",
+    "score": 0.398050368
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(14:1(9Z)/18:1(11Z))",
+    "score": 0.397027165
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Ethyl butyrate",
+    "score": 0.395091504
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Sphingosine 1-phosphate",
+    "score": 0.39391762
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Sucrose",
+    "score": 0.393212706
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Valylphenylalanine",
+    "score": 0.392986655
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "CE(16:0)",
+    "score": 0.390409499
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(22:0/20:0)",
+    "score": 0.388173491
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Citric acid",
+    "score": 0.386332959
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Spermine",
+    "score": 0.385161221
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "2,3-Dimethylheptane",
+    "score": 0.382563233
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Propyl acetate",
+    "score": 0.381924033
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Propylene glycol",
+    "score": 0.38112253
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Tetradecanoylcarnitine",
+    "score": 0.377152026
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(P-18:1(11Z)/20:4(5Z,8Z,11Z,14Z))",
+    "score": 0.375315994
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Xanthosine",
+    "score": 0.370400041
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(22:4(7Z,10Z,13Z,16Z)/20:1(11Z))",
+    "score": 0.370095402
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "LysoPC(0:0/18:1(9Z))",
+    "score": 0.364250869
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(P-16:0/18:1(9Z))",
+    "score": 0.361157238
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Thyroxine sulfate",
+    "score": 0.359011441
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Butyl 2-methylbutanoate",
+    "score": 0.3538059
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(O-16:0/16:1(9Z))",
+    "score": 0.350122631
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "1-Methyluric acid",
+    "score": 0.347651362
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Decanoylcarnitine",
+    "score": 0.346018881
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Lead",
+    "score": 0.34421742
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Anandamide",
+    "score": 0.334397316
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "3-Octen-2-one",
+    "score": 0.330403
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Neuraminic acid",
+    "score": 0.327755868
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Acetic acid",
+    "score": 0.323442936
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Nicotinic acid",
+    "score": 0.322258472
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "m-Cresol",
+    "score": 0.321495295
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Lactic acid",
+    "score": 0.318565458
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "MG(0:0/22:4(7Z,10Z,13Z,16Z)/0:0)",
+    "score": 0.318430632
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Tranexamic Acid",
+    "score": 0.315214306
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Butyric acid",
+    "score": 0.314281911
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Isocaproic acid",
+    "score": 0.314237118
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Hexane",
+    "score": 0.313537091
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "MG(0:0/18:1(11Z)/0:0)",
+    "score": 0.306992143
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "3,4-Dimethylthiophene",
+    "score": 0.305070102
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "3-Hydroxyphenylacetic acid",
+    "score": 0.304881543
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Tetradecanal",
+    "score": 0.304152191
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Leucine",
+    "score": 0.303816199
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Isobutyrylglycine",
+    "score": 0.303429574
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "2-Hydroxyphenethylamine",
+    "score": 0.301992714
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Thallium",
+    "score": 0.298815638
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "N,O-Bis- (trimethylsilyl)phenylalanine",
+    "score": 0.293294668
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Lactulose",
+    "score": 0.29199326
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "N8-Acetylspermidine",
+    "score": 0.284689635
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "alpha-Methylstyrene",
+    "score": 0.28388837
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Glyceric acid",
+    "score": 0.282943755
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Isovaleric acid",
+    "score": 0.277528048
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Arabitol",
+    "score": 0.27369675
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Tryptophyl-Proline",
+    "score": 0.270577818
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Valine",
+    "score": 0.266799539
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Lead",
+    "score": 0.265435845
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-alpha-Aminobutyric acid",
+    "score": 0.265043736
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(18:3(9Z,12Z,15Z)/20:3(8Z,11Z,14Z))",
+    "score": 0.262151599
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "DG(16:0/18:2(9Z,12Z)/0:0)",
+    "score": 0.26066339
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Lead",
+    "score": 0.257208884
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "1,7-Dimethyluric acid",
+    "score": 0.257097393
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Palmitoyl sphingomyelin",
+    "score": 0.254513919
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Tranexamic Acid",
+    "score": 0.252586901
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Furosemide",
+    "score": 0.251915812
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Ferulic acid",
+    "score": 0.24962607
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(18:1(9Z)/20:3(8Z,11Z,14Z))",
+    "score": 0.243660748
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Tranexamic Acid",
+    "score": 0.243467093
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "D-Xylitol",
+    "score": 0.237302631
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "N-Acetylputrescine",
+    "score": 0.235286966
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "L-Lysine",
+    "score": 0.229004532
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Indole-3-propionic acid",
+    "score": 0.228779018
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "6-Hydroxynicotinic acid",
+    "score": 0.225623652
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "(S)-Homostachydrine",
+    "score": 0.222955033
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Isoleucyl-Serine",
+    "score": 0.21857731
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Atorvastatin",
+    "score": 0.216090724
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(O-22:3(10Z,13Z,16Z)/22:3(10Z,13Z,16Z))",
+    "score": 0.215349078
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(14:0/18:1(9Z))",
+    "score": 0.205822214
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(P-18:1(11Z)/22:5(4Z,7Z,10Z,13Z,16Z))",
+    "score": 0.205642208
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "N4-Acetylcytidine",
+    "score": 0.20039618
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "2-Ethylhexanoic acid",
+    "score": 0.193918005
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Adipic acid",
+    "score": 0.193752095
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Trimethylsilyl l-Alanine",
+    "score": 0.189446643
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "N4-Acetylcytidine",
+    "score": 0.188561618
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "DL-Dopa",
+    "score": 0.184858412
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "MG(0:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)",
+    "score": 0.167637721
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "4-Methylcatechol",
+    "score": 0.165806353
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Kaempferol",
+    "score": 0.164487585
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "D-Ornithine",
+    "score": 0.164319113
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Hexaethylene glycol",
+    "score": 0.155672058
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "N-Acetylmuramate",
+    "score": 0.154575869
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Salicylic acid",
+    "score": 0.154276207
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Indole-3-carboxylic acid",
+    "score": 0.147366613
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "7-Methyluric acid",
+    "score": 0.13766627
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Valylhistidine",
+    "score": 0.129470602
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Tyrosol",
+    "score": 0.126733378
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Solanidine",
+    "score": 0.12595278
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "xi-2,3-Dihydro-2-oxo-1H-indole-3-acetic acid",
+    "score": 0.123304956
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "gamma-CEHC",
+    "score": 0.120020762
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Phytol",
+    "score": 0.112372816
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Isoleucyl-Methionine",
+    "score": 0.109196998
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "N-Acetyl-L-methionine",
+    "score": 0.106824525
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Hydroxyoctanoic acid",
+    "score": 0.098531373
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Histidyltryptophan",
+    "score": 0.092848025
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "D-Ribulose",
+    "score": 0.09230689
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Tryptophyl-Glutamate",
+    "score": 0.090284303
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "12-Methyltridecanoic acid",
+    "score": 0.089897871
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Luteolin",
+    "score": 0.088565573
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Lysyltyrosine",
+    "score": 0.087535344
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Pyroglutamylvaline",
+    "score": 0.083457477
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Leucylalanine",
+    "score": 0.082779512
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "2-Hydroxystearic acid",
+    "score": 0.082719952
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "2-Hydroxymyristic acid",
+    "score": 0.066526532
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Lysylleucine",
+    "score": 0.063968845
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "Threonylisoleucine",
+    "score": 0.063209452
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(22:2(13Z,16Z)/14:1(9Z))",
+    "score": 0.055995867
+  },
+  {
+    "disease": "crohn",
+    "metabolite": "PC(O-18:2(9Z,12Z)/20:0)",
+    "score": 0.055687819
+  }
+]
