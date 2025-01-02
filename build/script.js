@@ -11,6 +11,13 @@ fetch('build/data.json')
         console.error('Error loading JSON data:', error);
     });
 
+const exampleMetabolites = ["Beryllium", "Creatinine", "Glycine", "Guanine", "2-Nonanone"];
+
+function fillExample() {
+    const randomIndex = Math.floor(Math.random() * exampleMetabolites.length);
+    document.getElementById('metabolite').value = exampleMetabolites[randomIndex];
+}
+
 function queryDisease() {
     const metabolite = document.getElementById('metabolite').value.trim().toLowerCase();
     const modalResultsDiv = document.getElementById('modal-results');
